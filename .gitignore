@@ -6,3 +6,5 @@ logs/
 saves/
 usercache.json
 usernamecache.json
+instance.json
+rhino.local.properties
