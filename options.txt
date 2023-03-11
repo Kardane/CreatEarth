@@ -1,5 +1,5 @@
 version:2975
-autoJump:true
+autoJump:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -23,9 +23,9 @@ mouseSensitivity:0.5
 fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
-gamma:0.5
-renderDistance:12
-simulationDistance:12
+gamma:1
+renderDistance:10
+simulationDistance:10
 entityDistanceScaling:1.0
 guiScale:2
 particles:0
