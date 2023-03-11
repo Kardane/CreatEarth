@@ -1,0 +1,1347 @@
+[16:42:13] [main/INFO]: ModLauncher running: args [--username, Kardane, --version, 1.18.2, --gameDir, C:\Users\Admin\Desktop\minecr\instances\CreatEarth181, --assetsDir, C:\Users\Admin\Desktop\minecr\assets, --assetIndex, 1.18, --uuid, b053b02f33ef487ea7e088bda770e30d, --accessToken, ????????, --userType, msa, --versionType, release, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.1, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, --width=854, --height=480]
+[16:42:13] [main/INFO]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Microsoft
+[16:42:13] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Admin/Desktop/minecr/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=CLIENT
+[16:42:16] [main/INFO]: Found mod file abnormals_delight-1.18.2-3.0.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file AI-Improvements-1.18.2-0.5.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file alexsdelight-1.18.2-1.3.3.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file alexsmobs-1.18.6.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file alloyed-1.18.2-v1.4e.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file alloyedguns-1.0.2-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file alternate-current-mc1.18-1.2.1.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file Apotheosis-1.18.2-5.7.7.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file appleskin-forge-mc1.18.2-2.4.1.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file Aquaculture-1.18.2-2.3.10.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file architectury-4.11.89-forge.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file art_of_forging-1.5.5-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file AutoRegLib-1.7-53.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file BetterAdvancements-1.18.2-0.2.0.146.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file betterbiomeblend-1.18.2-1.3.5-forge.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file blockui-1.18.2-0.0.71-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file blueprint-1.18.2-5.5.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file Bookshelf-Forge-1.18.2-13.2.52.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file brb-1.18.2-forge-1.5.6.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file BrewinAndChewin-1.18.2-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file buzzier_bees-1.18.2-4.0.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file camera-1.18.2-1.0.5.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file canary-mc1.18.2-0.1.6.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file cbandb_1.0-Forge_1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file citadel-1.11.3-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file clayworks-1.18.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file cleancut-mc1.18.2-4.0-forge.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file cloth-config-6.4.90-forge.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file Clumps-forge-1.18.2-8.0.0+17.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file configured-2.0.0-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file Controlling-forge-1.18.2-9.0+22.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file copperlungs-1.18.2-0.1.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file crashutilities-4.1.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file create-1.18.2-0.5.0.i.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file create-confectionery1.18.2_v1.0.8.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file create_central_kitchen-1.18.2-for-create-0.5.0.i-1.2.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file create_crystal_clear-0.1.3e-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.1.14.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file create_jetpack-1.4.3.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file createaddition-1.18.2-20230309a.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file createbigcannons-1.18.2-beta-0.5.b.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file createdeco-1.2.12-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file createendertransmission-1.2.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file createsifter-1.18.2-1.4.0.i.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file Croptopia-1.18.2-FORGE-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file CTM-1.18.2-1.1.5+5.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file curios-forge-1.18.2-5.0.9.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file Delightful-1.18.2-3.2.1.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file domesticationinnovation-1.4.2-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file domum_ornamentum-1.18.2-1.0.77-ALPHA-universal.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file dungeons_libraries-1.18.2-2.0.5-beta.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file dungeons_mobs-1.18.2-3.0.2-beta.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file dynview-1.18.2-2.8.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.18.2-10.0.12.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file Entity_Collision_FPS_Fix-forge-1.18.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file entityculling-forge-1.6.1-mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file exoticbirds-1.18.2-1.8.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file extendedflywheels-1.2.5-1.18.2-0.5.e.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file extendedgears-1.18.2-0.5.0g-1.1.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file fantasyfurniture-1.18.2-3.14.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file FarmersDelight-1.18.2-1.2.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file FarmersRespite-1.18.2-1.3.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file farsight-1.18.2-1.9.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file FastLeafDecay-28.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file Fastload-Reforged-2.6.9+1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file FastSuite-1.18.2-3.0.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file ferritecore-4.2.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file fishingoverhaul-1.18.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file fishingreal-1.18.2-1.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file FixMySpawnR-forge-1.18.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file flywheel-forge-1.18.2-0.6.8.a.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file framework-0.4.2-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file ftb-chunks-forge-1802.3.15-build.243.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file ftb-library-forge-1802.3.11-build.177.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file ftb-quests-forge-1802.3.14-build.191.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file ftb-teams-forge-1802.2.10-build.96.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file geckolib-forge-1.18-3.0.57.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file horse_colors-1.18.2-1.8.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file item-filters-forge-1802.2.8-build.47.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file Jade-1.18.2-forge-5.2.6.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file JadeAddons-1.18.2-forge-2.4.1.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file jei-1.18.2-forge-10.2.1.1002.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file JsonThings-1.18.2-0.4.8.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file JustEnoughResources-1.18.2-0.14.1.171.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file kotlinforforge-3.10.0-all.jar of type LIBRARY with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file kubejs-create-forge-1802.2.2-build.28.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file kubejs-forge-1802.5.5-build.569.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file kubejs-tinkers-1802.1.0-build.1.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file kubejs-ui-forge-1802.1.8-build.17.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file kubejsoffline-1.0.4.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file lazydfu-1.0-1.18+.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file Mantle-1.18.2-1.9.43.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file MemoryUsageScreen-1.18-Forge-1.5.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file minecolonies-1.18.2-1.0.1272-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file miners_delight-1.18.2-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file minerslung-1.18.2-0.2.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file moderntrainparts-0.12.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file moreminecarts-1.4.7.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file moremountedstorages-1.2.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file MouseTweaks-forge-mc1.18-2.21.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file multi-piston-1.18.2-1.2.15-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file mutil-1.18.2-4.5.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file neapolitan-1.18.2-3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file NethersDelight-1.18.2-2.2.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file observable-2.2.3-forge.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file oculus-1.4.3a.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file oculus-flywheel-compat-1.18.2-0.1.8-BETA.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file overweightfarming-1.18.2-1.6.0-forge.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file Patchouli-1.18.2-71.1.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file paucal-forge-1.18.2-0.4.7.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file personality-1.18.2-2.0.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file Placebo-1.18.2-6.6.6.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file pluto-mc1.18.2-0.0.3.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file ponderjs-1.18.2-1.1.8.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file Quark-3.2-358.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file rechiseled-1.0.12a-forge-mc1.18.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file rhino-forge-1802.2.1-build.255.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file rubidium-0.5.4.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file saturn-mc1.18.2-0.0.1.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file savage_and_ravage-1.18.2-4.0.1.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file selene-1.18.2-1.17.9.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file SereneSeasons-1.18.2-7.0.0.15.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file sliceanddice-1.1.3.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file smallships-1.18.2-2.0.0-Alpha-0.4.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file smarterfarmers-1.18.2-1.6.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file smoothboot(reloaded)-mc1.18.2-0.0.2.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file smoothchunk-1.18.2-1.9.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file solapplepie-1.18.2-1.0.4.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file sophisticatedbackpacks-1.18.2-3.18.40.777.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file sophisticatedcore-1.18.2-0.5.37.202.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file sophisticatedstorage-1.18.2-0.6.16.274.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file spark-1.9.11-forge.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file starlight-1.0.2+forge.546ae87.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file Steam_Rails-1.18.2-1.1.1.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file structurize-1.18.2-1.0.424-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file supermartijn642configlib-1.1.6-forge-mc1.18.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file supermartijn642corelib-1.1.5-forge-mc1.18.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file supplementaries-1.18.2-1.5.16.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file tconplanner-1.18.2-1.2.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file TConstruct-1.18.2-3.6.3.111.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file TerraBlender-forge-1.18.2-1.2.0.126.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file tetra-1.18.2-4.10.1.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file tetrapak-1.18.2-0.5.3.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file Tinker-Things-1.18.2-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file TinkersLevellingAddon-1.18.2-1.2.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file toofast-1.18-0.0.1.3.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file upgrade_aquatic-1.18.2-4.0.0.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file wildbackport-1.2.3.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file woodworks-1.18.2-1.2.1.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/INFO]: Found mod file xlpackets-1.18.2-2.1.jar of type MOD with provider {mods folder locator at C:\Users\Admin\Desktop\minecr\instances\CreatEarth181\mods}
+[16:42:16] [main/WARN]: Mod file C:\Users\Admin\Desktop\minecr\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.1\fmlcore-1.18.2-40.2.1.jar is missing mods.toml file
+[16:42:16] [main/WARN]: Mod file C:\Users\Admin\Desktop\minecr\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.1\javafmllanguage-1.18.2-40.2.1.jar is missing mods.toml file
+[16:42:16] [main/WARN]: Mod file C:\Users\Admin\Desktop\minecr\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.1\lowcodelanguage-1.18.2-40.2.1.jar is missing mods.toml file
+[16:42:16] [main/WARN]: Mod file C:\Users\Admin\Desktop\minecr\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.1\mclanguage-1.18.2-40.2.1.jar is missing mods.toml file
+[16:42:16] [main/INFO]: Found mod file fmlcore-1.18.2-40.2.1.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6813a331
+[16:42:16] [main/INFO]: Found mod file javafmllanguage-1.18.2-40.2.1.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6813a331
+[16:42:16] [main/INFO]: Found mod file lowcodelanguage-1.18.2-40.2.1.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6813a331
+[16:42:16] [main/INFO]: Found mod file mclanguage-1.18.2-40.2.1.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6813a331
+[16:42:16] [main/INFO]: Found mod file client-1.18.2-20220404.173914-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6813a331
+[16:42:16] [main/INFO]: Found mod file forge-1.18.2-40.2.1-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6813a331
+[16:42:16] [main/INFO]: Found 7 dependencies adding them to mods collection
+[16:42:16] [main/INFO]: Found mod file velocity-native-3.1.2-SNAPSHOT.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@646811d6
+[16:42:16] [main/INFO]: Found mod file apexcore-1.18.2-4.13.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@646811d6
+[16:42:16] [main/INFO]: Found mod file kffmod-3.10.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@646811d6
+[16:42:16] [main/INFO]: Found mod file kfflib-3.10.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@646811d6
+[16:42:16] [main/INFO]: Found mod file commonality-1.18.2-1.4.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@646811d6
+[16:42:16] [main/INFO]: Found mod file Registrate-MC1.18.2-1.1.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@646811d6
+[16:42:16] [main/INFO]: Found mod file kfflang-3.10.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@646811d6
+[16:42:21] [main/INFO]: Compatibility level set to JAVA_17
+[16:42:21] [main/ERROR]: Mixin config mixin.cleancut.json does not specify "minVersion" property
+[16:42:21] [main/ERROR]: Mixin config kubejsoffline.mixins.json does not specify "minVersion" property
+[16:42:21] [main/ERROR]: Mixin config kubejsoffline-common.mixins.json does not specify "minVersion" property
+[16:42:22] [main/INFO]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[16:42:22] [main/INFO]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[16:42:22] [main/INFO]: Launching target 'forgeclient' with arguments [--version, 1.18.2, --gameDir, C:\Users\Admin\Desktop\minecr\instances\CreatEarth181, --assetsDir, C:\Users\Admin\Desktop\minecr\assets, --uuid, b053b02f33ef487ea7e088bda770e30d, --username, Kardane, --assetIndex, 1.18, --accessToken, ????????, --userType, msa, --versionType, release, --width=854, --height=480]
+[16:42:22] [main/WARN]: Reference map 'createdeco.refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:42:22] [main/INFO]: Trying to switch memory allocators to work around memory leaks present with Jemalloc 5.0.0 through 5.2.0 on Windows
+[16:42:22] [main/INFO]: Loaded configuration file for Rubidium: 29 options available, 0 override(s) found
+[16:42:22] [main/WARN]: Reference map 'wildbackport-forge-refmap.json' for wildbackport.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:42:22] [main/WARN]: Reference map 'kubejsoffline-forge-refmap.json' for kubejsoffline.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:42:22] [main/WARN]: Reference map 'kubejsoffline-common-refmap.json' for kubejsoffline-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:42:22] [main/WARN]: Reference map 'art_of_forging.refmap.json' for art_of_forging.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:42:22] [main/WARN]: Reference map 'steampowered.refmap.json' for extendedgears.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:42:22] [main/WARN]: Reference map 'steampowered.refmap.json' for extendedflywheels.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:42:22] [main/WARN]: Reference map 'xlpackets.refmap.json' for xlpackets.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:42:22] [main/WARN]: Reference map 'createsifter.refmap.json' for createsifter.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:42:22] [main/WARN]: Reference map 'nethersdelight.refmap.json' for nethersdelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:42:22] [main/WARN]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:42:22] [main/INFO]: Loaded configuration file for Canary: 106 options available, 1 override(s) found
+[16:42:24] [main/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[16:42:24] [main/INFO]: Patching FishingHook#catchingFish
+[16:42:24] [main/WARN]: Error loading class: edivad/dimstorage/manager/DimStorageManager (java.lang.ClassNotFoundException: edivad.dimstorage.manager.DimStorageManager)
+[16:42:24] [main/WARN]: @Mixin target edivad.dimstorage.manager.DimStorageManager was not found moremountedstorages.mixins.json:dimstorage.DimStorageManagerMixin
+[16:42:24] [main/WARN]: Error loading class: shetiphian/enderchests/common/misc/ChestHelper (java.lang.ClassNotFoundException: shetiphian.enderchests.common.misc.ChestHelper)
+[16:42:24] [main/WARN]: @Mixin target shetiphian.enderchests.common.misc.ChestHelper was not found moremountedstorages.mixins.json:enderchests.ChestHelperMixin
+[16:42:24] [main/WARN]: Error loading class: codechicken/enderstorage/manager/EnderStorageManager (java.lang.ClassNotFoundException: codechicken.enderstorage.manager.EnderStorageManager)
+[16:42:24] [main/WARN]: @Mixin target codechicken.enderstorage.manager.EnderStorageManager was not found moremountedstorages.mixins.json:enderstorage.EnderStorageManagerMixin
+[16:42:24] [main/WARN]: Error loading class: ninjaphenix/expandedstorage/block/AbstractChestBlock (java.lang.ClassNotFoundException: ninjaphenix.expandedstorage.block.AbstractChestBlock)
+[16:42:24] [main/WARN]: @Mixin target ninjaphenix.expandedstorage.block.AbstractChestBlock was not found moremountedstorages.mixins.json:expandedstorage.AbstractChestBlockMixin
+[16:42:24] [main/WARN]: Error loading class: com/jaquadro/minecraft/storagedrawers/capabilities/BasicDrawerAttributes (java.lang.ClassNotFoundException: com.jaquadro.minecraft.storagedrawers.capabilities.BasicDrawerAttributes)
+[16:42:24] [main/WARN]: @Mixin target com.jaquadro.minecraft.storagedrawers.capabilities.BasicDrawerAttributes was not found moremountedstorages.mixins.json:storagedrawers.BasicDrawerAttributesMixin
+[16:42:25] [main/INFO]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[16:42:25] [main/INFO]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[16:42:25] [main/INFO]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[16:42:25] [main/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/EnchantedBookItem
+[16:42:25] [main/INFO]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[16:42:25] [main/INFO]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[16:42:25] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ChunkMapMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [pluto]) disables it and children
+[16:42:25] [main/WARN]: Error loading class: mezz/jei/forge/util/AnnotatedInstanceUtil (java.lang.ClassNotFoundException: mezz.jei.forge.util.AnnotatedInstanceUtil)
+[16:42:27] [main/INFO]: Mixing LivingEntityAir from minerslung.mixins.json into net.minecraft.world.entity.LivingEntity
+[16:42:28] [main/INFO]: Mixing ClientLevelBlockTracker from minerslung.mixins.json into net.minecraft.world.level.Level
+[16:42:28] [main/INFO]: BeforeConstant is searching for constants in method with descriptor (Lnet/minecraft/network/chat/Component;Z)V
+[16:42:28] [main/INFO]:   BeforeConstant found INTEGER constant: value = 60, intValue = null
+[16:42:28] [main/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 0
+[16:42:28] [main/INFO]:       BeforeConstant found IntInsn 60
+[16:42:28] [pool-3-thread-1/INFO]: Mixing ServerLevelBlockTracker from minerslung.mixins.json into net.minecraft.server.level.ServerLevel
+[16:42:30] [pool-3-thread-1/INFO]: Replaced 5 calls to Enchantment#getMaxLevel() in vazkii/quark/content/tools/module/AncientTomesModule
+[16:42:30] [pool-3-thread-1/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[16:42:31] [pool-3-thread-1/INFO]: Lazy DFU
+[16:42:32] [pool-3-thread-1/INFO]: Patching FishingHook#catchingFish
+[16:42:32] [pool-3-thread-1/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/EnchantedBookItem
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `collar_tag`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `magnet_loop`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `chain_lightning`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `giant_bubble_inflate`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `giant_bubble_pop`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `pet_bed_use`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `drum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `psychic_wall`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `psychic_wall_deflect`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `animal_tamer`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `health_boost`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `fireproof`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `immunity_frame`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `deflection`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `poison_resistance`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `chain_lightning`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `speedster`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `frost_fang`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `magnetic`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `linked_inventory`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `total_recall`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `health_siphon`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `bubbling`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `herding`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `amphibious`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `vampire`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `void_cloud`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `charisma`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `shadow_hands`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `disc_jockey`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `defusal`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `warping_bite`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `ore_scenting`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `gluttonous`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `psychic_wall`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `intimidation`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:32] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `tethered_teleport`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:33] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `undead_curse`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:33] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `infamy_curse`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:33] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `blight_curse`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:33] [pool-3-thread-1/INFO]: Potentially Dangerous alternative prefix `domesticationinnovation` for name `immaturity_curse`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:33] [pool-3-thread-1/INFO]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[16:42:33] [pool-3-thread-1/INFO]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[16:42:33] [Render thread/WARN]: Method overwrite conflict for m_85995_ in mixins.oculus.vertexformat.json:block_rendering.MixinBufferBuilder_SeparateAo, previously written by me.jellysquid.mods.sodium.mixin.features.buffer_builder.intrinsics.MixinBufferBuilder. Skipping method.
+[16:42:34] [Render thread/WARN]: Assets URL 'union:/C:/Users/Admin/Desktop/minecr/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23211!/assets/.mcassetsroot' uses unexpected schema
+[16:42:34] [Render thread/WARN]: Assets URL 'union:/C:/Users/Admin/Desktop/minecr/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23211!/data/.mcassetsroot' uses unexpected schema
+[16:42:34] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:42:34] [Render thread/INFO]: Setting user: Kardane
+[16:42:34] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[16:42:35] [Render thread/INFO]: Loaded client.properties
+[16:42:35] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[16:42:35] [Render thread/INFO]: Debug functionality is disabled.
+[16:42:35] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[16:42:35] [Render thread/INFO]: Shaders are disabled
+[16:42:36] [modloading-worker-0/INFO]: Hello PAUCAL! This is FORGE!
+[16:42:36] [modloading-worker-0/INFO]: Otifine does not seem to be loaded, so no need to overwrite anything.
+[16:42:36] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[16:42:36] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[16:42:36] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[16:42:36] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[16:42:36] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[16:42:36] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[16:42:36] [modloading-worker-0/INFO]: Added new union URL Type to VFS
+[16:42:36] [modloading-worker-0/INFO]: Added new directory Url Types to VFS
+[16:42:36] [modloading-worker-0/INFO]: Now attempting to load JavaAssist ClassFile class
+[16:42:36] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:36] [modloading-worker-0/INFO]: Registering class observable.net.BetterChannel$PartialPacketBegin
+[16:42:36] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:36] [modloading-worker-0/INFO]: Successfully loaded JavaAssist ClassFile class!
+[16:42:36] [modloading-worker-0/INFO]: CHUNK_TRY_LIMIT: 100
+[16:42:36] [modloading-worker-0/INFO]: CLOSE_LOADING_SCREEN_UNSAFELY: FALSE
+[16:42:36] [modloading-worker-0/INFO]: PRE_RENDER_RADIUS: 0
+[16:42:36] [modloading-worker-0/INFO]: PRE_RENDER_AREA: 0
+[16:42:36] [modloading-worker-0/INFO]: DEBUG: FALSE
+[16:42:36] [modloading-worker-0/INFO]: PREGEN_CHUNK_RADIUS: 5
+[16:42:36] [modloading-worker-0/INFO]: PREGEN_CHUNK_AREA: 121
+[16:42:36] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[16:42:36] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[16:42:36] [modloading-worker-0/INFO]: Registering S2C receiver with id ftblibrary:edit_nbt
+[16:42:36] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:sync_teams
+[16:42:36] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:sync_message_history
+[16:42:36] [modloading-worker-0/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[16:42:36] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:open_gui
+[16:42:36] [modloading-worker-0/INFO]: Registering S2C receiver with id ftblibrary:sync_known_server_registries
+[16:42:36] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:open_my_team_gui
+[16:42:36] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:update_settings
+[16:42:36] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:update_settings_response
+[16:42:36] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:send_message
+[16:42:36] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:send_message_response
+[16:42:36] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:update_presence
+[16:42:36] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:create_party
+[16:42:36] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:player_gui_operation
+[16:42:37] [modloading-worker-0/INFO]: Registering C2S receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[16:42:37] [modloading-worker-0/INFO]: Registering S2C receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[16:42:37] [modloading-worker-0/INFO]: Registering C2S receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
+[16:42:37] [modloading-worker-0/INFO]: Registering S2C receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
+[16:42:37] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:37] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:37] [modloading-worker-0/INFO]: Looking for KubeJS plugins...
+[16:42:37] [modloading-worker-0/INFO]: Found plugin source kubejs
+[16:42:37] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:37] [modloading-worker-0/INFO]: Forge mod loading, version 40.2.1, for MC 1.18.2 with MCP 20220404.173914
+[16:42:37] [modloading-worker-0/INFO]: MinecraftForge v40.2.1 Initialized
+[16:42:37] [modloading-worker-0/ERROR]: Failed to load plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration from source kubejs: java.lang.NoClassDefFoundError: net/darkhax/gamestages/event/GameStageEvent
+[16:42:37] [modloading-worker-0/INFO]: Found plugin source kubejs_tinkers_construct
+[16:42:37] [modloading-worker-0/INFO]: Found plugin source kubejsoffline
+[16:42:37] [modloading-worker-0/INFO]: Found plugin source ponderjs
+[16:42:37] [modloading-worker-0/INFO]: Found plugin source ftbchunks
+[16:42:37] [modloading-worker-0/INFO]: Found plugin source ftbquests
+[16:42:37] [modloading-worker-0/INFO]: Found plugin source createsifter
+[16:42:37] [modloading-worker-0/INFO]: Found plugin source kubejs_create
+[16:42:37] [modloading-worker-0/INFO]: Done in 242.4 ms
+[16:42:37] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:request_map_data
+[16:42:37] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:send_all_chunks
+[16:42:37] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:login_data
+[16:42:37] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:request_chunk_change
+[16:42:37] [PAUCAL Contributors Loading Thread/INFO]: Successfully loaded 41 contributors
+[16:42:37] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:send_chunk
+[16:42:37] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:send_general_data
+[16:42:37] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:teleport_from_map
+[16:42:37] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:player_death
+[16:42:37] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:send_visible_player_list
+[16:42:37] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:sync_tx
+[16:42:37] [modloading-worker-0/INFO]: Loaded config file.
+[16:42:37] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:sync_rx
+[16:42:37] [modloading-worker-0/INFO]: Saved config file.
+[16:42:37] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:loaded_chunk_view
+[16:42:37] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:send_player_position
+[16:42:37] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
+[16:42:37] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:server_config_request
+[16:42:37] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:server_config_response
+[16:42:37] [modloading-worker-0/INFO]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
+[16:42:37] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:38] [modloading-worker-0/INFO]: Loaded 564 BlackListed sources from remote
+[16:42:38] [modloading-worker-0/INFO]: Loading mod 'commonality' TrustWorthiness...
+[16:42:38] [modloading-worker-0/FATAL]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[16:42:38] [modloading-worker-0/INFO]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
+[16:42:38] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:38] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:38] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:38] [modloading-worker-0/INFO]: Oculus detected.
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_quests
+[16:42:38] [modloading-worker-0/INFO]: Loaded common.properties
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_team_data
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:update_task_progress
+[16:42:38] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:submit_task
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:claim_reward
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:claim_reward_response
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_editing_mode
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:get_emergency_items
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:create_other_team_data
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:display_completion_toast
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:display_reward_toast
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:display_item_reward_toast
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:toggle_pinned
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:toggle_pinned_response
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:toggle_chapter_pinned_response
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:toggle_editing_mode
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:force_save
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:update_team_data
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:set_custom_image
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:object_started
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:object_completed
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:object_started_reset
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:object_completed_reset
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_lock
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:reset_reward
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:team_data_changed
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:task_screen_config_req
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:task_screen_config_resp
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:change_progress
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:create_object
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:create_object_response
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:create_task_at
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:delete_object
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:delete_object_response
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:edit_object
+[16:42:38] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:edit_object_response
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:move_chapter
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:move_chapter_response
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:move_quest
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:move_quest_response
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:change_chapter_group
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:change_chapter_group_response
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:move_chapter_group
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:move_chapter_group_response
+[16:42:38] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_reward_blocking
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:copy_quest
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:copy_chapter_image
+[16:42:38] [modloading-worker-0/INFO]: Kotlin For Forge Enabled!
+[16:42:38] [modloading-worker-0/INFO]: Checking corundum color mappings...
+[16:42:38] [modloading-worker-0/INFO]: Loading Rhino Minecraft remapper...
+[16:42:38] [modloading-worker-0/INFO]: Rhino properties loaded.
+[16:42:38] [modloading-worker-0/INFO]: Loading mappings for 1.18.2
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id minecraft:channel/observable/61a49a35c5283c0aaa7b0dfea5b7a53a
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id minecraft:channel/observable/61a49a35c5283c0aaa7b0dfea5b7a53a
+[16:42:38] [modloading-worker-0/INFO]: Registered class observable.net.BetterChannel$PartialPacketBegin
+[16:42:38] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.SpiralSpiresModule
+[16:42:38] [modloading-worker-0/INFO]: Registering class observable.net.BetterChannel$PartialPacketData
+[16:42:38] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id minecraft:channel/observable/3dd73fd88be832559bc3a3c4a2e63b4a
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id minecraft:channel/observable/3dd73fd88be832559bc3a3c4a2e63b4a
+[16:42:38] [modloading-worker-0/INFO]: Registered class observable.net.BetterChannel$PartialPacketData
+[16:42:38] [modloading-worker-0/INFO]: Registering class observable.net.C2SPacket$InitTPSProfile
+[16:42:38] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.PermafrostModule
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id minecraft:channel/observable/b453c08f23b83b82b690c31bf8b2a45a
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id minecraft:channel/observable/b453c08f23b83b82b690c31bf8b2a45a
+[16:42:38] [modloading-worker-0/INFO]: Registered class observable.net.C2SPacket$InitTPSProfile
+[16:42:38] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NoMoreLavaPocketsModule
+[16:42:38] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NewStoneTypesModule
+[16:42:38] [modloading-worker-0/INFO]: Registering class observable.net.C2SPacket$RequestTeleport
+[16:42:38] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NetherObsidianSpikesModule
+[16:42:38] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.MonsterBoxModule
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id minecraft:channel/observable/3a13df9e0b0a3290bb99252e1f8f68a2
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id minecraft:channel/observable/3a13df9e0b0a3290bb99252e1f8f68a2
+[16:42:38] [modloading-worker-0/INFO]: Registered class observable.net.C2SPacket$RequestTeleport
+[16:42:38] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.GlimmeringWealdModule
+[16:42:38] [modloading-worker-0/INFO]: Registering class observable.net.C2SPacket$RequestAvailability
+[16:42:38] [modloading-worker-0/INFO]: Registering C2S receiver with id minecraft:channel/observable/0c662822629034678f5a8f0e70375315
+[16:42:38] [modloading-worker-0/INFO]: Registering S2C receiver with id minecraft:channel/observable/0c662822629034678f5a8f0e70375315
+[16:42:38] [modloading-worker-0/INFO]: Registered class observable.net.C2SPacket$RequestAvailability
+[16:42:38] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.FairyRingsModule
+[16:42:38] [modloading-worker-0/INFO]: Registering class observable.net.S2CPacket$ProfilingStarted
+[16:42:38] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.CorundumModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.ChorusVegetationModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BlossomTreesModule
+[16:42:39] [modloading-worker-0/INFO]: Registering C2S receiver with id minecraft:channel/observable/2e815604a29b3a5cbfe0208e619d86c4
+[16:42:39] [modloading-worker-0/INFO]: Registering S2C receiver with id minecraft:channel/observable/2e815604a29b3a5cbfe0208e619d86c4
+[16:42:39] [modloading-worker-0/INFO]: Registered class observable.net.S2CPacket$ProfilingStarted
+[16:42:39] [modloading-worker-0/INFO]: Registering class observable.net.S2CPacket$ProfilingCompleted
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BigStoneClustersModule
+[16:42:39] [modloading-worker-0/INFO]: Registering C2S receiver with id minecraft:channel/observable/9ae83199b65a3768862799cc5e461a02
+[16:42:39] [modloading-worker-0/INFO]: Registering S2C receiver with id minecraft:channel/observable/9ae83199b65a3768862799cc5e461a02
+[16:42:39] [modloading-worker-0/INFO]: Registered class observable.net.S2CPacket$ProfilingCompleted
+[16:42:39] [modloading-worker-0/INFO]: Done in 0.211 s
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BigDungeonModule
+[16:42:39] [modloading-worker-0/INFO]: Registering class observable.net.S2CPacket$ProfilerInactive
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.AzaleaWoodModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.VillagersFollowEmeraldsModule
+[16:42:39] [modloading-worker-0/INFO]: Registering C2S receiver with id minecraft:channel/observable/ae8dfae1238e312397aa53e9d14c45ca
+[16:42:39] [modloading-worker-0/INFO]: Registering S2C receiver with id minecraft:channel/observable/ae8dfae1238e312397aa53e9d14c45ca
+[16:42:39] [modloading-worker-0/INFO]: Registered class observable.net.S2CPacket$ProfilerInactive
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.VexesDieWithTheirMastersModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.UtilityRecipesModule
+[16:42:39] [modloading-worker-0/INFO]: Registering class observable.net.S2CPacket$ProfilingResult
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SnowGolemPlayerHeadsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SimpleHarvestModule
+[16:42:39] [modloading-worker-0/INFO]: Registering C2S receiver with id minecraft:channel/observable/3a94cae7336038df9152bcb7b4b94825
+[16:42:39] [modloading-worker-0/INFO]: Registering S2C receiver with id minecraft:channel/observable/3a94cae7336038df9152bcb7b4b94825
+[16:42:39] [modloading-worker-0/INFO]: Registered class observable.net.S2CPacket$ProfilingResult
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SignEditingModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ReplaceScaffoldingModule
+[16:42:39] [modloading-worker-0/INFO]: Registering class observable.net.S2CPacket$Availability
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ReacharoundPlacingModule
+[16:42:39] [modloading-worker-0/INFO]: Registering C2S receiver with id minecraft:channel/observable/c86a824e756d312396d1ba30e943e6aa
+[16:42:39] [modloading-worker-0/INFO]: Registering S2C receiver with id minecraft:channel/observable/c86a824e756d312396d1ba30e943e6aa
+[16:42:39] [modloading-worker-0/INFO]: Registered class observable.net.S2CPacket$Availability
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PoisonPotatoUsageModule
+[16:42:39] [modloading-worker-0/INFO]: Registering class observable.net.S2CPacket$ConsiderProfiling
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PigLittersModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PatTheDogsModule
+[16:42:39] [modloading-worker-0/INFO]: Registering C2S receiver with id minecraft:channel/observable/80ae5e04c32934dab1c17d27a88baf19
+[16:42:39] [modloading-worker-0/INFO]: Registering S2C receiver with id minecraft:channel/observable/80ae5e04c32934dab1c17d27a88baf19
+[16:42:39] [modloading-worker-0/INFO]: Registered class observable.net.S2CPacket$ConsiderProfiling
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.NoteBlockMobSoundsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.MoreBannerLayersModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.LockRotationModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.HoeHarvestingModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.GrabChickensModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.GlassShardModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.EnhancedLaddersModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.EmotesModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.DragonScalesModule
+[16:42:39] [modloading-worker-0/INFO]: Loading mod 'fantasyfurniture' TrustWorthiness...
+[16:42:39] [modloading-worker-0/INFO]: Loading mod 'apexcore' TrustWorthiness...
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.DoubleDoorOpeningModule
+[16:42:39] [modloading-worker-0/FATAL]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[16:42:39] [modloading-worker-0/INFO]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
+[16:42:39] [modloading-worker-0/FATAL]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.CompassesWorkEverywhereModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.CampfiresBoostElytraModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.BetterElytraRocketModule
+[16:42:39] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.AutomaticRecipeUnlockModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ArmedArmorStandsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.TrowelModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SlimeInABucketModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SkullPikesModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SeedPouchModule
+[16:42:39] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.PickarangModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.PathfinderMapsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.ParrotEggsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.EndermoshMusicDiscModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.ColorRunesModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.CameraModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BundleRecipeModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BottledCloudModule
+[16:42:39] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BeaconRedirectionModule
+[16:42:39] [modloading-worker-0/INFO]: Replaced 5 calls to Enchantment#getMaxLevel() in vazkii/quark/content/tools/module/AncientTomesModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AncientTomesModule
+[16:42:39] [modloading-worker-0/INFO]: Replaced 3 calls to Enchantment#getMaxLevel() in vazkii/quark/content/tools/item/AncientTomeItem
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AmbientDiscsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AbacusModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.WraithModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ToretoiseModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.StonelingsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ShibaModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.FrogsModule
+[16:42:39] [modloading-worker-0/INFO]: Successfully loaded module [farmersdelight] for mod [create_central_kitchen]
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.FoxhoundModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ForgottenModule
+[16:42:39] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.CrabsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.QuickArmorSwappingModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ItemSharingModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.InventorySortingModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.HotbarChangerModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ExpandedItemInteractionsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.EasyTransferingModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ChestsInBoatsModule
+[16:42:39] [modloading-worker-0/INFO]: Successfully loaded module [farmersrespite] for mod [create_central_kitchen]
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.ZombieVillagersOnNormalModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.SpawnerReplacerModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.OverlayShaderModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.NarratorReadoutModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.GameNerfsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.EnchantmentsBegoneModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.AdjustableChatModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.VariantAnimalTexturesModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.UsesForCursesModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.UsageTickerModule
+[16:42:39] [modloading-worker-0/INFO]: Successfully loaded module [miners_delight] for mod [create_central_kitchen]
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.SoulCandlesModule
+[16:42:39] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.MicrocraftingHelperModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.ImprovedTooltipsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.GreenerGrassModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.ChestSearchingModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.BackButtonKeybind
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.AutoWalkKeybindModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.WoodenPostsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VerticalSlabsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VerticalPlanksModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantLaddersModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantFurnacesModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantChestsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantBookshelvesModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ThatchModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.SturdyStoneModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.StoolsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.SoulSandstoneModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ShinglesModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ShearVinesModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.RopeModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.OrientalPaletteModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.NetherBrickFenceGateModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MoreStoneVariantsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MorePottedPlantsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MoreBrickTypesModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MidoriModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.LeafCarpetModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.IndustrialPaletteModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.HedgesModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GrateModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GoldBarsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GlassItemFrameModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.FramedGlassModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.DuskboundBlocksModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.CompressedBlocksModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.CelebratoryLampsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.RedstoneRandomizerModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.PistonsMoveTileEntitiesModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ObsidianPlateModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.MetalButtonsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.JukeboxAutomationModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.IronRodModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.GravisandModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.FeedingTroughModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.EnderWatcherModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.DispensersPlaceBlocksModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ChuteModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ChainsConnectBlocksModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.TotemOfHoldingModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.TinyPotatoModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.PipesModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.MatrixEnchantingModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.MagnetsModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.CrateModule
+[16:42:39] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.BackpackModule
+[16:42:39] [modloading-worker-0/INFO]: Dispatching Module Step CONSTRUCT
+[16:42:39] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[16:42:39] [modloading-worker-0/INFO]: Hello, World! (You will only see this line once in console, during startup)
+[16:42:39] [modloading-worker-0/INFO]: Loaded script startup_scripts:script.js in 0.149 s
+[16:42:39] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS startup scripts in 1.486 s
+[16:42:39] [modloading-worker-0/INFO]: Dispatching Module Step CONSTRUCT_CLIENT
+[16:42:40] [modloading-worker-0/INFO]: Hello, World! (You will see this line every time client resources reload)
+[16:42:40] [modloading-worker-0/INFO]: Loaded script client_scripts:script.js in 0.002 s
+[16:42:40] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS client scripts in 0.086 s
+[16:42:40] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:send_data_from_client
+[16:42:40] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:send_data_from_server
+[16:42:40] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:paint
+[16:42:40] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:add_stage
+[16:42:40] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:remove_stage
+[16:42:40] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:sync_stages
+[16:42:41] [Render thread/INFO]: Reloading ResourceManager: abnormals_delight-1.18.2-3.0.2.jar, AI-Improvements-1.18.2-0.5.2.jar, alexsdelight-1.18.2-1.3.3.jar, alexsmobs-1.18.6.jar, alloyed-1.18.2-v1.4e.jar, alloyedguns-1.0.2-1.18.2.jar, alternate-current-mc1.18-1.2.1.jar, apexcore-1.18.2-4.13.0.jar, Apotheosis-1.18.2-5.7.7.jar, appleskin-forge-mc1.18.2-2.4.1.jar, Aquaculture-1.18.2-2.3.10.jar, architectury-4.11.89-forge.jar, art_of_forging-1.5.5-1.18.2.jar, AutoRegLib-1.7-53.jar, BetterAdvancements-1.18.2-0.2.0.146.jar, betterbiomeblend-1.18.2-1.3.5-forge.jar, blockui-1.18.2-0.0.71-ALPHA.jar, blueprint-1.18.2-5.5.0.jar, Bookshelf-Forge-1.18.2-13.2.52.jar, brb-1.18.2-forge-1.5.6.jar, BrewinAndChewin-1.18.2-1.0.1.jar, buzzier_bees-1.18.2-4.0.0.jar, camera-1.18.2-1.0.5.jar, canary-mc1.18.2-0.1.6.jar, citadel-1.11.3-1.18.2.jar, clayworks-1.18.2-1.0.0.jar, cleancut-mc1.18.2-4.0-forge.jar, cloth-config-6.4.90-forge.jar, Clumps-forge-1.18.2-8.0.0+17.jar, commonality-1.18.2-1.4.0.jar, configured-2.0.0-1.18.2.jar, Controlling-forge-1.18.2-9.0+22.jar, copperlungs-1.18.2-0.1.0.jar, crashutilities-4.1.jar, create-1.18.2-0.5.0.i.jar, create_central_kitchen-1.18.2-for-create-0.5.0.i-1.2.2.jar, create-confectionery1.18.2_v1.0.8.jar, create_crystal_clear-0.1.3e-1.18.2.jar, create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.1.14.jar, create_jetpack-1.4.3.jar, createaddition-1.18.2-20230309a.jar, createbigcannons-1.18.2-beta-0.5.b.jar, cbandb_1.0-Forge_1.18.2.jar, createdeco-1.2.12-1.18.2.jar, createendertransmission-1.2.0.jar, createsifter-1.18.2-1.4.0.i.jar, Croptopia-1.18.2-FORGE-2.1.0.jar, CTM-1.18.2-1.1.5+5.jar, curios-forge-1.18.2-5.0.9.0.jar, Delightful-1.18.2-3.2.1.jar, domesticationinnovation-1.4.2-1.18.2.jar, domum_ornamentum-1.18.2-1.0.77-ALPHA-universal.jar, dungeons_libraries-1.18.2-2.0.5-beta.jar, dungeons_mobs-1.18.2-3.0.2-beta.jar, dynview-1.18.2-2.8.jar, EnchantmentDescriptions-Forge-1.18.2-10.0.12.jar, Entity_Collision_FPS_Fix-forge-1.18.2-1.0.0.jar, entityculling-forge-1.6.1-mc1.18.2.jar, exoticbirds-1.18.2-1.8.0.jar, extendedflywheels-1.2.5-1.18.2-0.5.e.jar, extendedgears-1.18.2-0.5.0g-1.1.2.jar, fantasyfurniture-1.18.2-3.14.0.jar, FarmersDelight-1.18.2-1.2.0.jar, FarmersRespite-1.18.2-1.3.0.jar, farsight-1.18.2-1.9.jar, FastLeafDecay-28.jar, Fastload-Reforged-2.6.9+1.18.2.jar, FastSuite-1.18.2-3.0.2.jar, ferritecore-4.2.2-forge.jar, fishingoverhaul-1.18.2-1.0.0.jar, fishingreal-1.18.2-1.2.jar, FixMySpawnR-forge-1.18.2-1.0.0.jar, flywheel-forge-1.18.2-0.6.8.a.jar, forge-1.18.2-40.2.1-universal.jar, framework-0.4.2-1.18.2.jar, ftb-chunks-forge-1802.3.15-build.243.jar, ftb-library-forge-1802.3.11-build.177.jar, ftb-quests-forge-1802.3.14-build.191.jar, ftb-teams-forge-1802.2.10-build.96.jar, geckolib-forge-1.18-3.0.57.jar, horse_colors-1.18.2-1.8.0.jar, oculus-flywheel-compat-1.18.2-0.1.8-BETA.jar, item-filters-forge-1802.2.8-build.47.jar, Jade-1.18.2-forge-5.2.6.jar, JadeAddons-1.18.2-forge-2.4.1.jar, jei-1.18.2-forge-10.2.1.1002.jar, JustEnoughResources-1.18.2-0.14.1.171.jar, JsonThings-1.18.2-0.4.8.jar, kffmod-3.10.0.jar, kubejs-forge-1802.5.5-build.569.jar, kubejs-create-forge-1802.2.2-build.28.jar, kubejs-tinkers-1802.1.0-build.1.jar, kubejs-ui-forge-1802.1.8-build.17.jar, kubejsoffline-1.0.4.jar, lazydfu-1.0-1.18+.jar, Mantle-1.18.2-1.9.43.jar, MemoryUsageScreen-1.18-Forge-1.5.jar, minecolonies-1.18.2-1.0.1272-ALPHA.jar, miners_delight-1.18.2-1.0.3.jar, minerslung-1.18.2-0.2.2.jar, moderntrainparts-0.12.jar, moreminecarts-1.4.7.jar, moremountedstorages-1.2.2.jar, MouseTweaks-forge-mc1.18-2.21.jar, multi-piston-1.18.2-1.2.15-ALPHA.jar, mutil-1.18.2-4.5.0.jar, neapolitan-1.18.2-3.0.0.jar, NethersDelight-1.18.2-2.2.0.jar, observable-2.2.3-forge.jar, oculus-1.4.3a.jar, overweightfarming-1.18.2-1.6.0-forge.jar, Patchouli-1.18.2-71.1.jar, paucal-forge-1.18.2-0.4.7.jar, personality-1.18.2-2.0.0.jar, Placebo-1.18.2-6.6.6.jar, pluto-mc1.18.2-0.0.3.jar, ponderjs-1.18.2-1.1.8.jar, Quark-3.2-358.jar, Steam_Rails-1.18.2-1.1.1.jar, rechiseled-1.0.12a-forge-mc1.18.jar, rhino-forge-1802.2.1-build.255.jar, rubidium-0.5.4.jar, saturn-mc1.18.2-0.0.1.jar, savage_and_ravage-1.18.2-4.0.1.jar, selene-1.18.2-1.17.9.jar, SereneSeasons-1.18.2-7.0.0.15.jar, sliceanddice-1.1.3.jar, smallships-1.18.2-2.0.0-Alpha-0.4.jar, smarterfarmers-1.18.2-1.6.0.jar, smoothboot(reloaded)-mc1.18.2-0.0.2.jar, smoothchunk-1.18.2-1.9.jar, solapplepie-1.18.2-1.0.4.jar, sophisticatedbackpacks-1.18.2-3.18.40.777.jar, sophisticatedcore-1.18.2-0.5.37.202.jar, sophisticatedstorage-1.18.2-0.6.16.274.jar, spark-1.9.11-forge.jar, starlight-1.0.2+forge.546ae87.jar, structurize-1.18.2-1.0.424-ALPHA.jar, supermartijn642configlib-1.1.6-forge-mc1.18.jar, supermartijn642corelib-1.1.5-forge-mc1.18.jar, supplementaries-1.18.2-1.5.16.jar, tconplanner-1.18.2-1.2.0.jar, TConstruct-1.18.2-3.6.3.111.jar, TerraBlender-forge-1.18.2-1.2.0.126.jar, tetra-1.18.2-4.10.1.jar, tetrapak-1.18.2-0.5.3.jar, Tinker-Things-1.18.2-1.0.3.jar, TinkersLevellingAddon-1.18.2-1.2.0.jar, toofast-1.18-0.0.1.3.jar, upgrade_aquatic-1.18.2-4.0.0.jar, wildbackport-1.2.3.jar, woodworks-1.18.2-1.2.1.jar, xlpackets-1.18.2-2.1.jar
+[16:42:41] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:41] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `chipped_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:41] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `damaged_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:41] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `enchanting_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:41] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `enchanting_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:41] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `spawner`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:41] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `cactus`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:41] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `cactus`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:41] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `sugar_cane`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:41] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `sugar_cane`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:41] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `bamboo`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:41] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `bamboo`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:41] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `fletching_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:41] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `fletching_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:42] [Render thread/INFO]: Started registering Block things, errors about unexpected registry domains are harmless...
+[16:42:42] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `hematite_block`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:42] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `molten_hematite`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:42] [Render thread/INFO]: Done processing thingpack Blocks.
+[16:42:43] [Render thread/INFO]: HELLO from Register Block
+[16:42:43] [Render thread/INFO]: Dispatching Module Step REGISTER
+[16:42:44] [Render thread/INFO]: Dispatching Module Step POST_REGISTER
+[16:42:44] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:44] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `chipped_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:44] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `damaged_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:44] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `spawner`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Started registering Item things, errors about unexpected registry domains are harmless...
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `hematite_block`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `blowpipe`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `chisel`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `laminar_helmet`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `large_repair_kit_sand_cast`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `shovel`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `sack`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `large_repair_kit_red_sand_cast`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `hematite`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `shortbow`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `halberd`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `laminar_leggings`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `large_repair_kit`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `laminar_boots`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `laminar_chestplate`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `large_repair_kit_gold_cast`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `laminar_shield`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `molten_hematite_bucket`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:45] [Render thread/INFO]: Done processing thingpack Items.
+[16:42:45] [Render thread/INFO]: Potentially Dangerous alternative prefix `domum_ornamentum` for name `architects_cutter`, expected `minecolonies`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:46] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `bane_of_arthropods`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:46] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `smite`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:46] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `sharpness`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:46] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:46] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `fire_protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:46] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `blast_protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:46] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `projectile_protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:46] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `feather_falling`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:46] [Render thread/INFO]: Started registering Enchantment things, errors about unexpected registry domains are harmless...
+[16:42:46] [Render thread/INFO]: Done processing thingpack Enchantments.
+[16:42:46] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:46] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:46] [Render thread/INFO]: Started registering Fluid things, errors about unexpected registry domains are harmless...
+[16:42:46] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `molten_hematite`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:46] [Render thread/INFO]: Potentially Dangerous alternative prefix `tinkers_things` for name `molten_hematite_flowing`, expected `jsonthings`. This could be a intended override, but in most cases indicates a broken mod.
+[16:42:46] [Render thread/INFO]: Done processing thingpack Blocks.
+[16:42:47] [Render thread/WARN]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[16:42:47] [Render thread/WARN]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[16:42:47] [Render thread/INFO]: loaded in block colorizer
+[16:42:47] [Render thread/INFO]: loaded in item colorizer
+[16:42:48] [Render thread/ERROR]: Some mod loaded the Sheets class to early! This causes the banner texture maps to not contain modded patterns. Supplementaries will not attempt to fix...
+[16:42:48] [Render thread/INFO]: Hardware information:
+[16:42:48] [Render thread/INFO]: CPU: 16x AMD Ryzen 7 2700 Eight-Core Processor 
+[16:42:48] [Render thread/INFO]: GPU: Radeon RX 580 Series (Supports OpenGL 3.2.13596 Core Profile Forward-Compatible Context 20.10.35.02 27.20.1034.6)
+[16:42:48] [Render thread/INFO]: OS: Windows 10 (10.0)
+[16:42:49] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[16:42:49] [Render thread/INFO]: Registering model layer quark:crab#main
+[16:42:49] [Render thread/INFO]: Registering model layer quark:shiba#main
+[16:42:49] [Render thread/INFO]: Registering model layer quark:frog#main
+[16:42:49] [Render thread/INFO]: Registering model layer quark:wraith#main
+[16:42:49] [Render thread/INFO]: Registering model layer quark:forgotten_hat#main
+[16:42:49] [Render thread/INFO]: Registering model layer quark:stoneling#main
+[16:42:49] [Render thread/INFO]: Registering model layer quark:toretoise#main
+[16:42:49] [Render thread/INFO]: Registering model layer quark:quark_boat#main
+[16:42:49] [Render thread/INFO]: Registering model layer quark:foxhound#main
+[16:42:49] [Render thread/INFO]: Registering model layer quark:backpack#main
+[16:42:50] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources, Supplementaries Generated Pack, quark-emote-pack, KubeJS Resource Pack [assets]
+[16:42:50] [Render thread/INFO]: Generated runtime CLIENT_RESOURCES for pack Supplementaries Generated Pack in: 325 ms
+[16:42:50] [Worker-Main3/WARN]: File dungeons_mobs:sounds/entities/geomancer/attack.ogg does not exist, cannot add it to event dungeons_mobs:entity.geomancer.attack
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Redstone Randomizer
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Pistons Move Tile Entities
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Obsidian Plate
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Metal Buttons
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Jukebox Automation
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Iron Rod
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Gravisand
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Feeding Trough
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Ender Watcher
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Dispensers Place Blocks
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Chute
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Chains Connect Blocks
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Wooden Posts
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Vertical Slabs
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Vertical Planks
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Variant Ladders
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Variant Furnaces
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Variant Chests
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Variant Bookshelves
+[16:42:50] [modloading-worker-0/INFO]: Loading Module Thatch
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Sturdy Stone
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Stools
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Soul Sandstone
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Shingles
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Shear Vines
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Rope
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Oriental Palette
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Nether Brick Fence Gate
+[16:42:51] [modloading-worker-0/INFO]: Loading Module More Stone Variants
+[16:42:51] [modloading-worker-0/INFO]: Loading Module More Potted Plants
+[16:42:51] [modloading-worker-0/INFO]: Loading Module More Brick Types
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Midori
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Leaf Carpet
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Industrial Palette
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Hedges
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Grate
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Gold Bars
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Glass Item Frame
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Framed Glass
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Duskbound Blocks
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Compressed Blocks
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Celebratory Lamps
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Quick Armor Swapping
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Item Sharing
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Inventory Sorting
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Hotbar Changer
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Expanded Item Interactions
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Easy Transfering
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Chests In Boats
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Trowel
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Slime In A Bucket
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Seed Pouch
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Pickarang
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Pathfinder Maps
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Parrot Eggs
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Endermosh Music Disc
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Color Runes
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Camera
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Bundle Recipe
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Bottled Cloud
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Beacon Redirection
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Ancient Tomes
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Ambient Discs
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Abacus
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Villagers Follow Emeralds
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Vexes Die With Their Masters
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Utility Recipes
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Snow Golem Player Heads
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Simple Harvest
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Sign Editing
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Replace Scaffolding
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Reacharound Placing
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Poison Potato Usage
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Pig Litters
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Pat The Dogs
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Note Block Mob Sounds
+[16:42:51] [modloading-worker-0/INFO]: Loading Module More Banner Layers
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Lock Rotation
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Hoe Harvesting
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Grab Chickens
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Glass Shard
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Enhanced Ladders
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Emotes
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Dragon Scales
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Double Door Opening
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Compasses Work Everywhere
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Campfires Boost Elytra
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Better Elytra Rocket
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Automatic Recipe Unlock
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Armed Armor Stands
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Skull Pikes
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Spiral Spires
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Permafrost
+[16:42:51] [modloading-worker-0/INFO]: Loading Module No More Lava Pockets
+[16:42:51] [modloading-worker-0/INFO]: Loading Module New Stone Types
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Nether Obsidian Spikes
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Monster Box
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Glimmering Weald
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Fairy Rings
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Corundum
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Chorus Vegetation
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Blossom Trees
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Big Stone Clusters
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Big Dungeon
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Azalea Wood
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Wraith
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Toretoise
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Stonelings
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Shiba
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Frogs
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Foxhound
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Forgotten
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Crabs
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Variant Animal Textures
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Uses For Curses
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Usage Ticker
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Soul Candles
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Microcrafting Helper
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Improved Tooltips
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Greener Grass
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Chest Searching
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Back Button Keybind
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Auto Walk Keybind
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Zombie Villagers On Normal
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Spawner Replacer
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Overlay Shader
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Narrator Readout
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Game Nerfs
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Enchantments Begone
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Adjustable Chat
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Totem Of Holding
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Tiny Potato
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Pipes
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Matrix Enchanting
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Magnets
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Crate
+[16:42:51] [modloading-worker-0/INFO]: Loading Module Backpack
+[16:42:51] [modloading-worker-0/INFO]: Dispatching Module Step CONFIG_CHANGED
+[16:42:51] [modloading-worker-0/INFO]: Dispatching Module Step CONFIG_CHANGED_CLIENT
+[16:42:52] [Worker-Main5/INFO]: Dispatching Module Step TEXTURE_STITCH
+[16:42:53] [Worker-Main7/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[16:42:53] [Worker-Main7/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[16:42:53] [Worker-Main7/INFO]: Registered region wildbackport:overworld to index 1 for type OVERWORLD
+[16:42:53] [Worker-Main7/ERROR]: Adding duplicate value 'Configured: net.minecraft.world.level.levelgen.feature.RandomPatchFeature@64d5fbe4: RandomPatchConfiguration[tries=3, xzSpread=7, ySpread=3, feature=Direct{Placed Direct{Configured: net.minecraft.world.level.levelgen.feature.BlockColumnFeature@8d31fd3: BlockColumnConfiguration[layers=[Layer[height=[1-4], state=net.minecraft.world.level.levelgen.feature.stateproviders.SimpleStateProvider@763b8679]], direction=up, allowedPlacement=net.minecraft.world.level.levelgen.blockpredicates.MatchingBlocksPredicate@4edd26fd, prioritizeTip=false]}}]' to registry
+[16:42:53] [Worker-Main7/INFO]: Zooming chunks initiated!
+[16:42:53] [Worker-Main8/INFO]: Dispatching Module Step TEXTURE_STITCH
+[16:42:53] [Worker-Main7/INFO]: Creating Bindings Map...
+[16:42:53] [Worker-Main7/INFO]: Creating Bindings Map for ScriptType: STARTUP
+[16:42:53] [Worker-Main7/INFO]: Bindings Map for ScriptType: STARTUP has been created.
+[16:42:53] [Worker-Main7/INFO]: Creating Bindings Map for ScriptType: SERVER
+[16:42:53] [Worker-Main7/INFO]: Bindings Map for ScriptType: SERVER has been created.
+[16:42:53] [Worker-Main7/INFO]: Creating Bindings Map for ScriptType: CLIENT
+[16:42:53] [Worker-Main7/INFO]: Bindings Map for ScriptType: CLIENT has been created.
+[16:42:53] [Worker-Main7/INFO]: Bindings Map has been created.
+[16:42:53] [Worker-Main2/INFO]: Dispatching Module Step MODEL_REGISTRY
+[16:42:53] [Worker-Main7/INFO]: farsight_view mod initialized
+[16:42:53] [Forge Version Check/INFO]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.18.2
+[16:42:53] [Worker-Main6/INFO]: Dispatching Module Step TEXTURE_STITCH
+[16:42:53] [Worker-Main7/INFO]: HELLO FROM PREINIT
+[16:42:53] [Worker-Main7/INFO]: HELLO FROM PREINIT
+[16:42:53] [Worker-Main7/INFO]: DIRT BLOCK >> minecraft:dirt
+[16:42:53] [Worker-Main7/INFO]: Dispatching Module Step CONFIG_CHANGED
+[16:42:53] [Worker-Main7/INFO]: Dispatching Module Step CONFIG_CHANGED_CLIENT
+[16:42:53] [Worker-Main7/INFO]: Dispatching Module Step SETUP
+[16:42:54] [Worker-Main4/INFO]: Dispatching Module Step TEXTURE_STITCH
+[16:42:54] [Worker-Main7/INFO]: HELLO FROM PREINIT
+[16:42:54] [Worker-Main7/INFO]: DIRT BLOCK >> minecraft:dirt
+[16:42:54] [Forge Version Check/INFO]: [controlling] Found status: BETA Current: 9.0+22 Target: 9.0+22
+[16:42:54] [Forge Version Check/INFO]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.18.2
+[16:42:54] [Forge Version Check/INFO]: [bookshelf] Found status: BETA Current: 13.2.52 Target: 13.2.52
+[16:42:54] [Forge Version Check/INFO]: [camera] Starting version check at https://maxhenkel.de/update/camera.json
+[16:42:55] [Worker-Main7/INFO]: Dispatching Module Step TEXTURE_STITCH
+[16:42:56] [Forge Version Check/INFO]: [camera] Found status: UP_TO_DATE Current: 1.18.2-1.0.5 Target: null
+[16:42:56] [Forge Version Check/INFO]: [pluto] Starting version check at https://github.com/AbdElAziz333/Pluto/raw/mc1.19.2/dev/updates.json
+[16:42:56] [Worker-Main3/INFO]: 93 material render infos loaded
+[16:42:56] [Forge Version Check/INFO]: [pluto] Found status: OUTDATED Current: 0.0.3 Target: 0.0.4
+[16:42:56] [Forge Version Check/INFO]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[16:42:57] [Forge Version Check/INFO]: [framework] Found status: BETA Current: 0.4.2 Target: 0.4.2
+[16:42:57] [Forge Version Check/INFO]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/Ship-Mod/main/update.json
+[16:42:57] [Forge Version Check/WARN]: Failed to process update information
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 10 column 4 path $.
+	at com.google.gson.Gson.fromJson(Gson.java:978) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2335!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.1.jar%23212!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.1.jar%23212!/:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at line 10 column 4 path $.
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1562) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:490) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:413) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:184) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2335!/:?]
+	... 6 more
+[16:42:57] [Forge Version Check/INFO]: [fastleafdecay] Starting version check at https://www.olafkeijsers.net/fastleafdecay-update.json
+[16:42:59] [Render thread/INFO]: Finished mod setup in: 53 ms
+[16:43:00] [Render thread/ERROR]: NetworkDirection channel createendertransmission:main already registered.
+[16:43:00] [Render thread/INFO]: Registered synced data key alloyedguns:aiming for minecraft:player
+[16:43:00] [Render thread/INFO]: Registered synced data key alloyedguns:shooting for minecraft:player
+[16:43:00] [Render thread/INFO]: Registered synced data key alloyedguns:reloading for minecraft:player
+[16:43:00] [Worker-Main3/ERROR]: Using missing texture, unable to load tetra:textures/mob_effect/bleeding.png : java.io.FileNotFoundException: tetra:textures/mob_effect/bleeding.png
+[16:43:00] [Worker-Main3/ERROR]: Using missing texture, unable to load tetra:textures/mob_effect/stun.png : java.io.FileNotFoundException: tetra:textures/mob_effect/stun.png
+[16:43:00] [Worker-Main3/ERROR]: Using missing texture, unable to load tetra:textures/mob_effect/mining_speed.png : java.io.FileNotFoundException: tetra:textures/mob_effect/mining_speed.png
+[16:43:00] [Worker-Main3/ERROR]: Using missing texture, unable to load tetra:textures/mob_effect/suspended.png : java.io.FileNotFoundException: tetra:textures/mob_effect/suspended.png
+[16:43:01] [Placebo Patreon Trail Loader/INFO]: Loading patreon trails data...
+[16:43:01] [Placebo Patreon Wing Loader/INFO]: Loading patreon wing data...
+[16:43:01] [Worker-Main3/INFO]: Oculus Flywheel Compat Initialized
+[16:43:01] [Worker-Main5/INFO]: Dispatching Module Step SETUP_CLIENT
+[16:43:01] [Worker-Main9/INFO]: Optifine not found. Disabling compat.
+[16:43:01] [Placebo Patreon Trail Loader/INFO]: Loaded 23 patreon trails.
+[16:43:01] [Placebo Patreon Wing Loader/INFO]: Loaded 18 patreon wings.
+[16:43:01] [Forge Version Check/INFO]: [fastleafdecay] Found status: UP_TO_DATE Current: 28 Target: null
+[16:43:01] [Forge Version Check/INFO]: [fastload] Starting version check at https://github.com/BumbleSoftware/Fastload/raw/mc1.19.2/dev/updates.json
+[16:43:01] [Forge Version Check/WARN]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 7 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2335!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.1.jar%23212!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.1.jar%23212!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 7 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2335!/:?]
+	... 6 more
+[16:43:01] [Forge Version Check/INFO]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.18.2
+[16:43:01] [Render thread/INFO]: Initializing PonderJS - Run events.
+[16:43:01] [Forge Version Check/INFO]: [clumps] Found status: BETA Current: 8.0.0+17 Target: 8.0.0+17
+[16:43:01] [Forge Version Check/INFO]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[16:43:02] [Forge Version Check/INFO]: [configured] Found status: BETA Current: 2.0.0 Target: 2.0.0
+[16:43:02] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16:43:02] [Forge Version Check/INFO]: [forge] Found status: AHEAD Current: 40.2.1 Target: null
+[16:43:02] [Forge Version Check/INFO]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.18.2
+[16:43:03] [Forge Version Check/INFO]: [enchdesc] Found status: BETA Current: 10.0.12 Target: 10.0.12
+[16:43:03] [Forge Version Check/INFO]: [commonality] Starting version check at https://raw.githubusercontent.com/ApexStudios-Dev/Version/master/commonality.json
+[16:43:03] [Forge Version Check/INFO]: [commonality] Found status: AHEAD Current: 1.4.0 Target: null
+[16:43:03] [Forge Version Check/INFO]: [smoothboot] Starting version check at https://github.com/AbdElAziz333/SmoothBoot-Reloaded/raw/mc1.19.2/dev/updates.json
+[16:43:03] [Forge Version Check/INFO]: [smoothboot] Found status: UP_TO_DATE Current: 0.0.2 Target: null
+[16:43:03] [Forge Version Check/INFO]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[16:43:03] [Forge Version Check/INFO]: [flywheel] Found status: UP_TO_DATE Current: 0.6.8.a Target: null
+[16:43:03] [Forge Version Check/INFO]: [alloyedguns] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/alloyedguns/update.json
+[16:43:04] [Forge Version Check/WARN]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2335!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.1.jar%23212!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.1.jar%23212!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2335!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2335!/:?]
+	... 6 more
+[16:43:04] [Forge Version Check/INFO]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[16:43:04] [Forge Version Check/INFO]: [canary] Found status: AHEAD Current: 0.1.6 Target: null
+[16:43:04] [Forge Version Check/INFO]: [apexcore] Starting version check at https://raw.githubusercontent.com/ApexStudios-Dev/Version/master/apexcore.json
+[16:43:04] [Forge Version Check/INFO]: [apexcore] Found status: AHEAD Current: 4.13.0 Target: null
+[16:43:04] [Forge Version Check/INFO]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
+[16:43:04] [Forge Version Check/INFO]: [fantasyfurniture] Found status: UP_TO_DATE Current: 3.14.0 Target: null
+[16:43:04] [Forge Version Check/INFO]: [delightful] Starting version check at https://onvoid.net/delightful/update.json
+[16:43:04] [Forge Version Check/INFO]: [delightful] Found status: AHEAD Current: 3.2.1 Target: null
+[16:43:06] [Worker-Main2/WARN]: Unable to load model: 'minecraft:block' referenced from: domum_ornamentum:blockpillar#column=pillar_base: java.io.FileNotFoundException: minecraft:models/block.json
+[16:43:06] [Worker-Main2/WARN]: Unable to load model: 'minecraft:steel_catwalk' referenced from: alloyed:steel_catwalk#bottom=true,east=true,north=true,south=true,waterlogged=true,west=true: java.io.FileNotFoundException: minecraft:models/steel_catwalk.json
+[16:43:13] [Worker-Main2/WARN]: Unable to load model: 'tetra:shootable_dummy#inventory' referenced from: tetra:shootable_dummy#inventory: java.io.FileNotFoundException: tetra:models/item/shootable_dummy.json
+[16:43:13] [Worker-Main2/WARN]: Unable to load model: 'art_of_forging:dummyitem#inventory' referenced from: art_of_forging:dummyitem#inventory: java.io.FileNotFoundException: art_of_forging:models/item/dummyitem.json
+[16:43:14] [Worker-Main2/WARN]: Unable to load model: 'supplementaries:block/plants/chunkrodite_block' referenced from: supplementaries:block/plants/chunkrodite_block: java.io.FileNotFoundException: supplementaries:models/block/plants/chunkrodite_block.json
+[16:43:14] [Worker-Main2/WARN]: Unable to load model: 'supplementaries:blocks/wall_lanterns/wall_lantern_gold' referenced from: supplementaries:blocks/wall_lanterns/wall_lantern_gold: java.io.FileNotFoundException: supplementaries:models/blocks/wall_lanterns/wall_lantern_gold.json
+[16:43:14] [Worker-Main2/WARN]: Unable to load model: 'supplementaries:blocks/wall_lanterns/wall_lantern_copper' referenced from: supplementaries:blocks/wall_lanterns/wall_lantern_copper: java.io.FileNotFoundException: supplementaries:models/blocks/wall_lanterns/wall_lantern_copper.json
+[16:43:14] [Worker-Main2/WARN]: Unable to load model: 'supplementaries:block/plants/glass_cactus' referenced from: supplementaries:block/plants/glass_cactus: java.io.FileNotFoundException: supplementaries:models/block/plants/glass_cactus.json
+[16:43:14] [Worker-Main2/WARN]: Unable to load model: 'supplementaries:blocks/wall_lanterns/wall_lantern_brass' referenced from: supplementaries:blocks/wall_lanterns/wall_lantern_brass: java.io.FileNotFoundException: supplementaries:models/blocks/wall_lanterns/wall_lantern_brass.json
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in domum_ornamentum:block/doors/door_top_waffle_spec
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in domum_ornamentum:block/trapdoors/trapdoor_waffle_spec
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in moreminecarts:block/locking_powered_rail_inverted_off
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in railways:block/semaphore/block_full_flipped_down
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in moreminecarts:block/locking_powered_rail_on
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in railways:block/semaphore/block_full_down
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in railways:block/track_casing/cr_o
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in railways:block/semaphore/block_flipped_down
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in railways:block/semaphore/block_full
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in railways:block/semaphore/block
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in railways:block/semaphore/block_flipped
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in alloyedguns:special/gun/musket
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in 
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in railways:block/semaphore/block_down
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in railways:block/semaphore/block_full_flipped
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in brewinandchewin:block/flaxen_cheese_wheel1
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in createaddition:block/connector/small_light
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in delightful:item/cantaloupe
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in overweight_farming:block/overweight_cabbage_stem
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in delightful:block/cantaloupe
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in railways:item/semaphore
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in railways:item/dev_caps/neoncitydrifter
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in brewinandchewin:block/scarlet_cheese_wheel1
+[16:43:22] [Worker-Main2/WARN]: Unable to resolve texture reference: #missing in dungeons_mobs:item/blue_nethershroom
+[16:43:31] [Worker-Main2/INFO]: Dispatching Module Step TEXTURE_STITCH
+[16:43:31] [Worker-Main8/ERROR]: Using missing texture, unable to load minecraft:textures/track_diag2_outlines/track_diag2_outline.xcf_center_top.png : java.io.FileNotFoundException: minecraft:textures/track_diag2_outlines/track_diag2_outline.xcf_center_top.png
+[16:43:32] [Worker-Main5/ERROR]: Using missing texture, unable to load minecraft:textures/cannon_iron.png : java.io.FileNotFoundException: minecraft:textures/cannon_iron.png
+[16:43:32] [Worker-Main9/ERROR]: Using missing texture, unable to load minecraft:textures/track_diag2_outlines/track_diag2_outline.xcf_left_center.png : java.io.FileNotFoundException: minecraft:textures/track_diag2_outlines/track_diag2_outline.xcf_left_center.png
+[16:43:32] [Worker-Main9/ERROR]: Using missing texture, unable to load minecraft:textures/track_diag2_outlines/track_diag2_outline.xcf_right_top.png : java.io.FileNotFoundException: minecraft:textures/track_diag2_outlines/track_diag2_outline.xcf_right_top.png
+[16:43:33] [Worker-Main9/ERROR]: Using missing texture, unable to load minecraft:textures/track_diag2_outlines/track_diag2_outline.xcf_left_bottom.png : java.io.FileNotFoundException: minecraft:textures/track_diag2_outlines/track_diag2_outline.xcf_left_bottom.png
+[16:43:33] [Worker-Main2/WARN]: Texture minecolonies:gui/builderhut/builder_paper_sketch with size 190x244 limits mip level from 4 to 1
+[16:43:37] [Worker-Main4/WARN]: Unused frames in sprite alexsmobs:item/hemolymph_sac: [3]
+[16:43:37] [Worker-Main9/WARN]: Unused frames in sprite tetra:items/pristine_lapis: [8, 9, 10, 11, 12, 13, 14, 15]
+[16:43:37] [Worker-Main2/INFO]: Dispatching Module Step TEXTURE_STITCH
+[16:43:37] [Worker-Main2/INFO]: Dispatching Module Step TEXTURE_STITCH
+[16:43:37] [Worker-Main2/INFO]: Dispatching Module Step TEXTURE_STITCH
+[16:43:37] [Worker-Main5/ERROR]: Using missing texture, unable to load supplementaries:textures/entity/flags/brazil.png : java.io.FileNotFoundException: supplementaries:textures/entity/flags/brazil.png
+[16:43:37] [Worker-Main2/INFO]: Dispatching Module Step TEXTURE_STITCH
+[16:43:37] [Worker-Main2/INFO]: Dispatching Module Step TEXTURE_STITCH
+[16:43:38] [Worker-Main2/INFO]: Dispatching Module Step TEXTURE_STITCH
+[16:43:38] [Render thread/INFO]: Beginning loading of data for data loader: gui/element
+[16:43:38] [Render thread/INFO]: Data loader for gui/element loaded 2 jsons
+[16:43:40] [Render thread/INFO]: Loaded all shader sources.
+[16:43:40] [Worker-Main5/INFO]: Dispatching Module Step LOAD_COMPLETE
+[16:43:40] [Worker-Main9/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/template_pool / minecraft:village/common/animals]' to registry
+[16:43:40] [Worker-Main6/INFO]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[16:43:40] [Worker-Main2/WARN]: Register mappings
+[16:43:40] [Worker-Main6/INFO]: Start loading plugin at shadows.apotheosis.spawn.compat.SpawnerHwylaPlugin
+[16:43:40] [Worker-Main6/INFO]: Start loading plugin at shadows.apotheosis.ench.compat.EnchHwylaPlugin
+[16:43:40] [Worker-Main6/INFO]: Start loading plugin at shadows.apotheosis.adventure.compat.AdventureHwylaPlugin
+[16:43:40] [Worker-Main6/INFO]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
+[16:43:40] [Worker-Main6/INFO]: Start loading plugin at snownee.jade.addon.tconstruct.TConstructPlugin
+[16:43:40] [Worker-Main6/INFO]: Start loading plugin at snownee.jade.addon.create.CreatePlugin
+[16:43:40] [Worker-Main6/INFO]: Start loading plugin at snownee.jade.VanillaPlugin
+[16:43:40] [Render thread/INFO]: Successfully loaded config provider: com.mrcrayfish.configured.impl.forge.ForgeConfigProvider
+[16:43:40] [Render thread/INFO]: Successfully loaded config provider: com.mrcrayfish.configured.impl.simple.SimpleConfigProvider
+[16:43:40] [Render thread/INFO]: Creating config GUI factories...
+[16:43:40] [Render thread/INFO]: Registering config factory for mod paucal. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod alexsmobs. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod createdeco. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod tinkerslevellingaddon. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod sophisticatedcore. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod create_jetpack. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod citadel. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod memoryusagescreen. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod moreminecarts. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod sophisticatedbackpacks. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod minerslung. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod savage_and_ravage. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod clayworks. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod railways. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod dynview. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod jeresources. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod solapplepie. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod farmersdelight. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod crashutilities. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod curios. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod patchouli. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod camera. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod alloyedguns. Found 3 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod horse_colors. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod woodworks. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod extendedgears. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod aiimprovements. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod smallships. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod fastleafdecay. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod exoticbirds. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod dungeons_libraries. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod sliceanddice. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod betteradvancements. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod tconplanner. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod fixmyspawnr. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod createbigcannons. Found 3 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod buzzier_bees. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod sophisticatedstorage. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod tetrapak. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod jei. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod dungeons_mobs. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod upgrade_aquatic. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod sereneseasons. Found 3 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod configured. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod moremountedstorages. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod farsight_view. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod blueprint. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod forge. Found 3 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod moderntrainparts. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod neapolitan. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod tconstruct. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod createendertransmission. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod nethersdelight. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod personality. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod flywheel. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod farmersrespite. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod mantle. Found 2 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod croptopia. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod abnormals_delight. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod structurize. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod minecolonies. Found 3 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod appleskin. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod aquaculture. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod delightful. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod create_enchantment_industry. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod domesticationinnovation. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registering config factory for mod createaddition. Found 1 config(s)
+[16:43:40] [Render thread/INFO]: Registered region quark:biome_provider to index 2 for type OVERWORLD
+[16:43:49] [Render thread/WARN]: Missing sound for event: apotheosis:altar_sound
+[16:43:49] [Render thread/WARN]: Missing sound for event: supplementaries:item.wrench.hit
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.builder.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.builder.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.deliveryman.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.deliveryman.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.miner.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.miner.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.lumberjack.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.lumberjack.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.farmer.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.farmer.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.undertaker.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.undertaker.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.fisherman.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.fisherman.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.baker.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.baker.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.cook.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.cook.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.shepherd.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.shepherd.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.cowboy.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.cowboy.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.swineherder.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.swineherder.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.chickenherder.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.chickenherder.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.smelter.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.smelter.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.ranger.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.ranger.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.knight.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.knight.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.composter.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.composter.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.student.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.student.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.archertraining.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.archertraining.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.combattraining.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.combattraining.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.sawmill.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.sawmill.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.blacksmith.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.blacksmith.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.stonemason.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.stonemason.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.stonesmeltery.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.stonesmeltery.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.crusher.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.crusher.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.sifter.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.sifter.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.florist.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.florist.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.enchanter.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.enchanter.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.researcher.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.researcher.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.healer.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.healer.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.pupil.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.pupil.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.teacher.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.teacher.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.glassblower.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.glassblower.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.dyer.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.dyer.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.fletcher.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.fletcher.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.mechanic.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.mechanic.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.planter.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.planter.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.concretemixer.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.concretemixer.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.rabbitherder.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.rabbitherder.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.beekeeper.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.beekeeper.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.cookassistant.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.cookassistant.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.netherworker.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.netherworker.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.quarrier.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.quarrier.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.druid.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.druid.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.alchemist.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.alchemist.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.citizen.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.citizen.female.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.child.male.good_housing
+[16:43:49] [Render thread/WARN]: Missing sound for event: minecolonies:mob.child.female.good_housing
+[16:43:49] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on ½ºÇÇÄ¿(Realtek(R) Audio)
+[16:43:49] [Render thread/INFO]: Sound engine started
+[16:43:49] [Render thread/INFO]: Created: 128x128x0 upgrade_aquatic:textures/atlas/glow_squid.png-atlas
+[16:43:49] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[16:43:49] [Render thread/INFO]: Endimation Loader has loaded 5 endimations
+[16:43:49] [Render thread/INFO]: Created: 8192x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[16:43:51] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[16:43:51] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/signs.png-atlas
+[16:43:51] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[16:43:51] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[16:43:51] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[16:43:51] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[16:43:51] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[16:43:51] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/chest.png-atlas
+[16:43:51] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[16:43:51] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[16:43:51] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[16:43:51] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[16:43:51] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[16:44:11] [Render thread/INFO]: Dispatching Module Step MODEL_BAKE
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:skeleton_vanguard, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:necromancer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:royal_guard, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:iceologer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:mage, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:mage_clone, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:geomancer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:windcaller, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:illusioner, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:illusioner_clone, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:mountaineer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:wraith, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:redstone_golem, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:whisperer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:leapleaf, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:quick_growing_vine, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:poison_quill_vine, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:squall_golem, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:wavewhisperer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:quick_growing_kelp, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:poison_anemone, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:drowned_necromancer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:endersent, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:blastling, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:watchling, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:snareling, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:wildfire, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:geomancer_wall, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply rainbow color layer to dungeons_mobs:geomancer_bomb, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/INFO]: Dispatching Module Step MODEL_LAYERS
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:skeleton_vanguard, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:necromancer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:royal_guard, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:iceologer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:mage, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:mage_clone, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:geomancer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:windcaller, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:illusioner, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:illusioner_clone, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:mountaineer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:wraith, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:redstone_golem, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:whisperer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:leapleaf, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:quick_growing_vine, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:poison_quill_vine, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:squall_golem, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:wavewhisperer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:quick_growing_kelp, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:poison_anemone, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:drowned_necromancer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:endersent, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:blastling, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:watchling, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:snareling, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:wildfire, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:geomancer_wall, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:geomancer_bomb, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:skeleton_vanguard, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:necromancer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:royal_guard, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:iceologer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:mage, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:mage_clone, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:geomancer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:windcaller, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:illusioner, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:illusioner_clone, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:mountaineer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:wraith, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:redstone_golem, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:whisperer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:leapleaf, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:quick_growing_vine, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:poison_quill_vine, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:squall_golem, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:wavewhisperer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:quick_growing_kelp, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:poison_anemone, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:drowned_necromancer, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:endersent, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:blastling, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:watchling, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:snareling, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:wildfire, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:geomancer_wall, has custom renderer that is not LivingEntityRenderer.
+[16:44:13] [Render thread/WARN]: Could not apply pet overlays layer to dungeons_mobs:geomancer_bomb, has custom renderer that is not LivingEntityRenderer.
+[16:44:14] [Render thread/WARN]: Shader kubejsui_background could not find uniform named tick in the specified shader program.
+[16:44:14] [Render thread/WARN]: Shader kubejsui_background could not find uniform named guiScale in the specified shader program.
+[16:44:15] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/particles.png-atlas
+[16:44:15] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[16:44:15] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[16:44:15] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[16:44:15] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/mob_effects.png-atlas
+[16:44:15] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[16:44:15] [Render thread/INFO]: BookContentResourceListenerLoader preloaded 0 jsons
+[16:44:15] [Render thread/INFO]: Not reloading resource pack-based books as client world is missing
+[16:44:15] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[16:44:15] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[16:44:16] [Render thread/INFO]: Loaded 0 fluid unit lists in 1.4063 ms
+[16:44:16] [Render thread/INFO]: Creating pipeline for dimension OVERWORLD
+[16:44:16] [Render thread/INFO]: Dispatching Module Step FIRST_CLIENT_TICK
+[17:12:26] [Render thread/INFO]: Stopping!
+[17:12:26] [Render thread/INFO]: Shutting down map thread

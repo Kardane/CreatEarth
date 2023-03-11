@@ -1,0 +1,6 @@
+
+["Configs for Modern Train Parts"]
+	#The total amount of stacks a container can hold per block in size.
+	#Range: > 1
+	containerCapacity = 3
+

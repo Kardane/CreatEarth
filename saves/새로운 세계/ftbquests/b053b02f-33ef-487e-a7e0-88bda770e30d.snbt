@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "b053b02f33ef487ea7e088bda770e30d"
+	name: "Kardane"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

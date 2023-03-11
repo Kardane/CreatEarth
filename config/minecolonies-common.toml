@@ -1,0 +1,6 @@
+
+#핵심 게임플레이에 관련된 설정들
+[gameplay]
+	#전리품 상자에 보급선과 보급 캠프 생성 여부 [기본값: true]
+	generatesupplyloot = true
+

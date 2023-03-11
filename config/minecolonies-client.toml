@@ -1,0 +1,10 @@
+
+#핵심 게임플레이에 관련된 설정들
+[gameplay]
+	#minecolonies.config.enablecitizenvoices.comment [기본값: true]
+	enablecitizenvoices = true
+	#다른 건물 근처에 도면을 설치하면 다른 건물이 5레벨 건물로 표시되고 주위에 파란색 외곽선이 표시됩니다. false로 설정하여 비활성화 할 수 있습니다. [기본값: true]
+	neighborbuildingrendering = true
+	#true일 경우 건축 도구로 건물을 지을 때 나타나는 경계가 팀 색상으로 보입니다. false일 경우 콜로니 안에서는 하얀색으로, 바깥에서는 빨간색으로 표시됩니다. [기본값: true]
+	colonyteamborders = true
+
